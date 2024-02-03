@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Phrases Day</string>
+    <string name="NewPhase">NOVA FRASE</string>
+    <string name="press_button_new_phrase">Precione o botão para gerar uma nova frase!</string>
+</resources>
