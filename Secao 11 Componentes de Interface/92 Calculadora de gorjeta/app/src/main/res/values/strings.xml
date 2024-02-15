@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Calculadora de Gorjeta</string>
+    <string name="EnterValue">Digite um valor ex: 60.00</string>
+</resources>

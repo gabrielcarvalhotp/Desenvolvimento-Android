@@ -10,8 +10,8 @@ import com.google.android.material.textfield.TextInputEditText;
 
 public class MainActivity extends AppCompatActivity {
 
-    TextInputEditText edtPriceAlcohol, edtPriceGaz;
-    TextView txtResult;
+    private TextInputEditText edtPriceAlcohol, edtPriceGaz;
+    private TextView txtResult;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
